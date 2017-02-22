@@ -1,5 +1,9 @@
 # Homework 3 Corrections & Additions
 
+Task 2
+------
+Small typo, but `factorial(5)` should return 120, instead of 25.
+
 homework3_objects.js
 --------------------
 
